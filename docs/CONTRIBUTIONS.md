@@ -1,8 +1,8 @@
-# BigDataComputeProject — Contributions
+# Weather Classification and Review Rating Prediction — Contributions
 
 [English overview](../README.md) | [Results](RESULTS.md)
 
-BigDataComputeProject is a team project combining weather classification and large-scale review rating prediction. The attribution below follows the original submission and source descriptions.
+The team worked on weather classification and large-scale review rating prediction. The attribution below follows the original submission and source descriptions.
 
 ## Submitted attribution
 

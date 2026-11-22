@@ -1,4 +1,4 @@
-# BigDataComputeProject — Results
+# Weather Classification and Review Rating Prediction — Results
 
 [English overview](../README.md) | [Contributions](CONTRIBUTIONS.md)
 

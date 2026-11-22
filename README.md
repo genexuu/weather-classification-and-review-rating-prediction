@@ -1,8 +1,8 @@
-# BigDataComputeProject
+# Weather Classification and Review Rating Prediction
 
-**Weather classification and large-scale review rating prediction**, built as a team project spanning custom machine learning, streaming data preparation, Spark validation, and CPU/GPU modeling.
+We built custom classifiers for four weather classes and predicted 1-to-5-star ratings from more than 7.6 million labeled reviews.
 
-Repository: [BigDataComputeProject](https://github.com/ZHEN-GING/BigDataComputeProject)
+[View the project on GitHub](https://github.com/genexuu/weather-classification-and-review-rating-prediction)
 
 The engineering work connects two scales of prediction:
 
