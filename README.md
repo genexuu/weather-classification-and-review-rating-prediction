@@ -58,7 +58,7 @@ The task predicts weather classes; it does not establish a deployed weather fore
 
 The advanced final score is a **team result**. [Contributions](docs/CONTRIBUTIONS.md) separates the data/bias pipeline from later ensemble development.
 
-## Zhen Xu's contribution
+## Gene's contribution
 
 Built the streaming data and Spark validation foundation for **7.68 million reviews**, implemented predictor-group isolation, and developed regularized parent/user bias models. Same-split holdout RMSE improved from **1.516148 to 1.477608**. The advanced neural ensemble is credited separately to the team and its model developer.
 
@@ -72,4 +72,4 @@ Built the streaming data and Spark validation foundation for **7.68 million revi
 
 This repository contains project documentation only. Source code, executable notebooks, datasets, per-record predictions, model parameters and original submission documents are not included. Source review may be arranged separately with the project owner; access is not guaranteed. The public documentation can be viewed, downloaded and copied.
 
-The team comprises Zhen Xu, Haobo Sun, Kunyang Du and ALE Manisa. The submitted contribution record assigns 25% to each member; these are reported shares, not independently measured effort.
+
